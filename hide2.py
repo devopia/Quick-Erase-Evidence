@@ -1,12 +1,12 @@
 #!/usr/bin/python
 # ---------------
 # Once again, personal script
-# incase that situation has
+# incase that "situation" has
 # comeforth.
 # ---------------
 
 # Updated script from a new base. Old one wasn't great. This one is more simple.
-# created by d3ck.
+# created by devopia.
 # Works!
 
 import os
